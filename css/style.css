@@ -1,0 +1,327 @@
+*{
+	margin: 0;
+	padding: 0;
+
+}
+body{
+	background: #f6f9f9;
+}
+
+header{
+	padding: 20px 0px;
+}
+
+.banner{
+	background: url(../img/banner.png) no-repeat top center;
+	background-size: cover;
+}
+
+.banner-content{
+    margin-top: 200px;
+
+}
+.banner-content h1{
+	font-size: 105px;
+    color: #fff;
+	
+}
+.banner-content p{
+	color: #fff;
+
+}
+.banner-content span{
+	display: block;
+    border-bottom: 2px solid #007bff;
+    width: 90%;
+    margin: 0 auto;
+    margin-bottom: 15px;
+	
+}
+
+.btn-one{
+	background: transparent;
+    padding: 10px 23px;
+    border: 1px solid #007bff;
+    border-radius: 10px;
+    margin-top: 60px;
+    margin-bottom: 170px;
+}
+
+.btn-one a{
+	text-decoration: none;
+    color: white;
+
+}
+
+.btn-one:hover{
+	background: #007bff;
+	border: none;
+	transition: 0.4s ease;
+}
+
+.fa.fa-chevron-down{
+	font-size: 19px;
+    color: #fff;
+    margin-bottom: 88px;
+
+}
+
+.design{
+	margin-top: 78px;
+	margin-bottom: 90px;
+
+}
+
+.design h2{
+	color: #2d3950;
+    font-size: 40px;
+    margin-bottom: 24px;
+	
+}
+
+.design p{
+	
+}
+
+.icon{
+	background: white;
+
+}
+.icons{
+	margin-top: 40px;
+
+}
+
+.icons h3{
+    margin-top: 20px;
+    margin-bottom: 11px;
+}
+
+.icons p{
+	margin-bottom: 55px;
+    color: #font-size: 50px;
+    color: #a9a9a9;
+	
+}
+
+.fa.fa-mobile{
+	font-size: 52px;
+    width: 70px;
+    height: 70px;
+    color: #fff;
+    line-height: 64px;
+    background: linear-gradient(90deg, rgba(72,186,255,1) 50%, rgba(95,195,255,1) 50%, rgba(90,193,255,1) 50%);
+    
+}
+
+.fa.fa-paper-plane{
+	font-size: 35px;
+    width: 70px;
+    height: 70px;
+    color: #fff;
+    line-height: 64px;
+    background: linear-gradient(90deg, rgba(72,186,255,1) 50%, rgba(95,195,255,1) 50%, rgba(90,193,255,1) 50%);
+
+}
+
+.fa.fa-bullhorn{
+	font-size: 35px;
+    width: 70px;
+    height: 70px;
+    color: #fff;
+    line-height: 64px;
+    background: linear-gradient(90deg, rgba(72,186,255,1) 50%, rgba(95,195,255,1) 50%, rgba(90,193,255,1) 50%);
+
+}
+
+.showcase{
+
+}
+
+.showcase-title{
+
+}
+
+.showcase-title h2{
+	margin-top: 77px;
+	
+}
+
+.showcase-title p{
+	font-size: 15px;
+    margin-bottom: 30px;
+
+	
+}
+
+.img-hover{
+
+	position: relative;
+
+}
+
+.img-hover-content{
+	position: absolute;
+    width: 93%;
+    height: 100%;
+    background: #007bff54;
+    top: 0;
+    bottom: 0;
+    left: 14px;
+    right: 0;
+    opacity: 0;
+    transition: 0.5s ease;
+}
+
+.link{
+	position: absolute;
+	top: 47%;
+	left: 38%;
+}
+
+.link i{
+	padding: 10px;
+    border: 1px solid white;
+    margin-right: 5px;
+    border-radius: 5px;
+}
+
+.fa.fa-search-plus{
+	color: white;
+	font-size: 22px;
+	cursor: pointer;
+}
+.fa.fa-link{
+	color: white;
+	font-size: 22px;
+	cursor: pointer;
+}
+.img-hover:hover .img-hover-content{
+	opacity: 1;
+}
+
+.show-row{
+	margin-bottom: 20px;
+}
+
+.stay{
+	background: url(../img/bg.png) no-repeat top center;
+	background-size: cover;
+	margin-top: 110px;
+}
+
+.stay-title{
+
+}
+
+.stay-title h2{
+	color: #fff;
+    margin-top: 70px;
+	
+}
+
+.stay-title p{
+	color: #999999;
+    font-size: 13px;
+    margin-bottom: 40px;
+	
+}
+
+.form-control{
+	background: transparent!important;
+	border: 1px solid #999999!important;
+
+}
+.stay-btn4{
+	padding: 10px 46px;
+    color: #fff;
+    background: transparent;
+    margin-top: 15px;
+    border: 1px solid #007bffa8;
+    border-radius: 5px;
+    margin-bottom: 105px;
+	
+}
+
+.stay-btn4:hover{
+	background: #15a4fa;
+	transform: 0.4s ease;
+}
+
+.stay-btn3{
+	height: 165px!important;
+}
+    
+
+
+
+.stay-btn2{
+	height: 57px;
+    margin-bottom: 20px;
+	
+}
+
+.stay-btn{
+	height: 57px;
+    margin-bottom: 20px;
+	
+}
+
+label{
+	color: #fff;
+	margin-top: 20px;
+}
+
+.checkbox{
+
+}
+
+.copyright{
+
+}
+
+.copyright h4{
+	color: #999999;
+    font-size: 15px;
+    letter-spacing: 1px;
+    margin: 38px 0px;
+
+}
+
+.icon-social{
+
+}
+
+.icon-social a{
+	text-decoration: none;
+	background: transparent;
+
+	
+}
+
+.icon-social a i{
+	background-color: #15a4fa;
+    color: white;
+    padding: 20px 20px;
+    margin-right: 2px;
+    font-size: 16px;
+	margin: 30px 0px;
+	cursor: pointer;
+}
+
+
+.fa.fa-facebook{
+
+}
+
+.fa.fa-twitter{
+	
+}
+
+.fa.fa-google-plus{
+	
+}
+
+.fa.fa-linkedin{
+	
+}
